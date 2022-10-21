@@ -18,7 +18,10 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"zcrmsdk\\" : "v1.0.0/src/"
+			"zcrmsdk\\" : "v1.0.1/src/"
 		}
-	}
+	},
+	"replace": {
+        "v1.0.0": "*"
+    }
 }
