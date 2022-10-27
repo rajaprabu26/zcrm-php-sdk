@@ -2,7 +2,8 @@
     "name": "raja-sdk/zcrm-php-sdk",
 	"autoload" : {
 		"psr-4" : {
-			"zcrmsdk\\" : "src/"
+			"phpsdk2\\" : "v2/src/",
+			"phpsdk2_1\\" : "v3/src/"
 		}
 	},
     "authors": [
